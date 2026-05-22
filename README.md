@@ -1,5 +1,7 @@
 # RWAILib
 
+**English** · [简体中文](README.zh-Hans.md) · [Русский](README.ru.md)
+
 **Local, offline AI for RimWorld. No API keys, no cloud, no data leaving your machine.**
 
 RWAILib is a framework that runs a small language model (Microsoft's [Phi-3](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)) entirely on your own computer and wires it into RimWorld. The first feature built on it rewrites the flavor text of in-game artwork with AI-generated titles and descriptions. The framework is designed so that more AI-driven features can be added over time.
