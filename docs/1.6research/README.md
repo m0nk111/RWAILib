@@ -15,6 +15,7 @@ from RimWorld 1.5 to RimWorld 1.6 (Odyssey).
 | [06-debugging-and-testing.md](06-debugging-and-testing.md) | Dev mode, debugging tools, and testing workflow for 1.6 |
 | [07-porting-plan.md](07-porting-plan.md) | Step-by-step implementation plan for the 1.6 port |
 | [08-handover-for-next-agent.md](08-handover-for-next-agent.md) | Context handoff document for the next AI agent |
+| [09-rimbridgeserver-testing.md](09-rimbridgeserver-testing.md) | How to use RimBridgeServer for live testing of the 1.6 port |
 
 ## Quick Summary
 
